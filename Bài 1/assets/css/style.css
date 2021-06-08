@@ -1,0 +1,71 @@
+@import url("https://cdn.jsdelivr.net/npm/bootstrap-icons@1.5.0/font/bootstrap-icons.css");
+body {
+  background-color: whitesmoke;
+}
+
+img {
+  width: 250px;
+  border-radius: 50%;
+}
+
+.header-background {
+  background-image: url(/CSS-FW.M.A101/resources/images/bg-masthead.jpg);
+  background-size: cover;
+  background-position-y: center;
+  height: 600px;
+  width: 100%;
+}
+.footer-background {
+  background-image: url(/CSS-FW.M.A101/resources/images/bg-masthead.jpg);
+  background-size: cover;
+  background-position-y: center;
+  height: 600px;
+  width: 100%;
+}
+
+.div-all-background {
+  background-color: rgba(0, 0, 0, 0.219);
+  height: 100%;
+}
+
+.text-header {
+  color: white;
+}
+
+.image1 {
+  background-image: url(/CSS-FW.M.A101/resources/images/bg-showcase-1.jpg);
+  background-size: cover;
+  background-position-y: center;
+  height: 500px;
+  width: 100%;
+  padding: 0;
+}
+
+.image2 {
+  background-image: url(/CSS-FW.M.A101/resources/images/bg-showcase-2.jpg);
+  background-size: cover;
+  background-position-y: center;
+  height: 500px;
+  width: 100%;
+  padding: 0;
+}
+
+.image3 {
+  background-image: url(/CSS-FW.M.A101/resources/images/bg-showcase-3.jpg);
+  background-size: cover;
+  background-position-y: center;
+  height: 500px;
+  width: 100%;
+  padding: 0;
+}
+
+a {
+  font-size: 23px;
+}
+
+a::after {
+  text-decoration: none;
+}
+a:hover {
+  text-decoration: none;
+}
